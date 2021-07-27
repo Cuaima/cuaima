@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning C# for Unity.
+- 💬 Ask me about visual novels.
+- 🤔 I’m looking for mentors.
+
+- ⚡ Fun fact: I like making visual novels with the Ren'Py engine. 
+
 <!--
 **Cuaima/cuaima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
