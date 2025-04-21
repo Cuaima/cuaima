@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning C# for Unity.
+- 😄 Pronouns: She/Her
+- 🌱 I’m currently learning Pandas.
 - 💬 Ask me about visual novels.
 - 🤔 I’m looking for mentors.
 
