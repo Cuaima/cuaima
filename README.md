@@ -2,12 +2,13 @@
 
 - 😄 Pronouns: She/Her
 - 🌱 I’m currently learning Pandas.
+
+<!--
 - 💬 Ask me about visual novels.
 - 🤔 I’m looking for mentors.
 
 - ⚡ Fun fact: I like making visual novels with the Ren'Py engine. 
 
-<!--
 **Cuaima/cuaima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
